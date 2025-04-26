@@ -70,7 +70,7 @@ Contributions are welcome! If you'd like to contribute to the MERN Stack Job Por
 
 ## Contact
 
-Have questions or suggestions? Feel free to contact us at [xp27anujkumar@gmail.com](mailto:xp27anujkumar.com).
+Have questions or suggestions? Feel free to contact us at [anujsinghrawat990@gmail.com].
 ```
 
 You can copy and paste this code directly into your README.md file on GitHub.
